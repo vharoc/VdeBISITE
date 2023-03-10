@@ -6,6 +6,7 @@ int main(){
     printf("despues subirte al repositorio\n");
     
     printf("Nueva linea de la nueva branch?\n");
+    printf("Ahora he cambiado a WSL: Ubuntu\n");
 
     printf("Ahora si, que se me olvido el checkout a la nueva branch\n");
     
