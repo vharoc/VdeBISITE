@@ -9,7 +9,7 @@ int main(){
     printf("Ahora he cambiado a WSL: Ubuntu\n");
 
     printf("Ahora si, que se me olvido el checkout a la nueva branch\n");
-    
-    printf("Modifico el hola mundo\n");
+
+    printf("Modifico el hola mundo en la nueva rama\n");
     return 0;
 }
