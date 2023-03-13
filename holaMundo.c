@@ -9,7 +9,5 @@ int main(){
     printf("Ahora he cambiado a WSL: Ubuntu\n");
 
     printf("Ahora si, que se me olvido el checkout a la nueva branch\n");
-    
-    printf("Commit para la tercera rama\n");
     return 0;
 }
